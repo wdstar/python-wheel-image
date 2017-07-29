@@ -1,5 +1,5 @@
-ansible Docker image
-====================
+python-wheel Docker image
+=========================
 
 ## Contents
 
